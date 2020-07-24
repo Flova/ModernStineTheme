@@ -9,6 +9,7 @@ The page [userstyles.org](userstyles.org) performs very poorly and is often near
 
 Disclaimer: The theme is unofficial and at your own risk.
 
+Note: Some CSS is quite hacky and terrible due to the limitations of the original site.
 
 # Manual install
 If you haven't installed [Stylus](https://github.com/openstyles/stylus) install it in the browser of your choice.
