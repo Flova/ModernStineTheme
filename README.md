@@ -5,7 +5,7 @@ STINE is the online platform used by students of the University of Hamburg. The 
 
 The style is available at [userstyles.org](https://userstyles.org/styles/174975/modern-stine-theme). For better documentation and issue tracking the source is mirrored here. 
 
-The page [userstyles.org](userstyles.org) performs very poorly and is often nearly unusable. Try the manual install below if it doesn't work. 
+The page [userstyles.org](https://userstyles.org) performs very poorly and is often nearly unusable. Try the manual install below if it doesn't work. 
 
 Disclaimer: The theme is unofficial and at your own risk.
 
