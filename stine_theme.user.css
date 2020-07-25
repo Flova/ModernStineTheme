@@ -183,19 +183,19 @@ h1 {
 }
 
 /* Table */
-.tb {
+.tb, .tb750{
     border: 0 !important;
 }
 
-.tbhead {
+.tbhead, caption {
     padding: 1em 0 1em 0;
     color: #000;
     font-size: 16px;
     background-color: #0000;
 }
 
-.tbsubhead th {
-    background-color: #eeeeee;
+.tbsubhead th, .tbsubhead{
+    background-color: #fff;
     color: #000;
     padding: 0.75em 0 0.75em 0;
 }
@@ -258,7 +258,7 @@ tr {
 
 
 /* Fix page Size */
-.eagunxba {
+html {
     min-width: 1650px;
 }
 
